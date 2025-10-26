@@ -1,0 +1,269 @@
+{
+  "assetCategories": {
+    "imperfection": {
+      "metal": {
+        "scratched": {}
+      }
+    }
+  },
+  "averageColor": "#808080",
+  "categories": [
+    "surface",
+    "Imperfections",
+    "Scratches"
+  ],
+  "comp_version": 1,
+  "description": "",
+  "environment": {
+    "biome": "undefined",
+    "region": "undefined"
+  },
+  "highest_available_res": 4096,
+  "id": "shrpeeqc",
+  "json": {
+    "contentLength": 5716,
+    "uri": "shrpeeqc.json"
+  },
+  "maps": [
+    {
+      "averageColor": "#808080",
+      "bitDepth": 32,
+      "colorSpace": "Linear",
+      "contentLength": 37573633,
+      "maxIntensity": 255,
+      "mimeType": "image/x-exr",
+      "minIntensity": 17,
+      "name": "Gloss",
+      "physicalSize": "0.5x0.5",
+      "resolution": "4096x4096",
+      "type": "gloss",
+      "uri": "shrpeeqc_4K_Gloss.exr"
+    },
+    {
+      "averageColor": "#808080",
+      "bitDepth": 8,
+      "colorSpace": "Linear",
+      "contentLength": 13956911,
+      "maxIntensity": 255,
+      "mimeType": "image/jpeg",
+      "minIntensity": 17,
+      "name": "Gloss",
+      "physicalSize": "0.5x0.5",
+      "resolution": "4096x4096",
+      "type": "gloss",
+      "uri": "shrpeeqc_4K_Gloss.jpg"
+    },
+    {
+      "averageColor": "#7F7F7F",
+      "bitDepth": 32,
+      "colorSpace": "Linear",
+      "contentLength": 32358813,
+      "maxIntensity": 238,
+      "mimeType": "image/x-exr",
+      "minIntensity": 0,
+      "name": "Roughness",
+      "physicalSize": "0.5x0.5",
+      "resolution": "4096x4096",
+      "type": "roughness",
+      "uri": "shrpeeqc_4K_Roughness.exr"
+    },
+    {
+      "averageColor": "#7F7F7F",
+      "bitDepth": 8,
+      "colorSpace": "Linear",
+      "contentLength": 13968189,
+      "maxIntensity": 238,
+      "mimeType": "image/jpeg",
+      "minIntensity": 0,
+      "name": "Roughness",
+      "physicalSize": "0.5x0.5",
+      "resolution": "4096x4096",
+      "type": "roughness",
+      "uri": "shrpeeqc_4K_Roughness.jpg"
+    }
+  ],
+  "meta": [
+    {
+      "key": "scanArea",
+      "name": "Scan Area",
+      "value": "0.5x0.5 m"
+    },
+    {
+      "key": "height",
+      "name": "Height",
+      "value": "20 m"
+    },
+    {
+      "key": "tileable",
+      "name": "Tileable",
+      "value": true
+    },
+    {
+      "key": "texelDensity",
+      "name": "Texel Density",
+      "value": "8192 px/m"
+    },
+    {
+      "key": "calibration",
+      "name": "Calibration",
+      "value": "GretagMacbeth ColorChecker Color Rendition Chart"
+    },
+    {
+      "key": "scanner",
+      "name": "Scanner",
+      "value": "MKX"
+    }
+  ],
+  "models": [],
+  "name": "Scratched Anodized Aluminum",
+  "pack": null,
+  "physicalSize": null,
+  "points": 1,
+  "previews": {
+    "images": [
+      {
+        "contentLength": 153494,
+        "resolution": "360x360",
+        "tags": [
+          "thumb"
+        ],
+        "uri": "shrpeeqc_Grid_360.png"
+      },
+      {
+        "contentLength": 208502,
+        "resolution": "420x420",
+        "tags": [
+          "thumb"
+        ],
+        "uri": "shrpeeqc_Grid_420.png"
+      },
+      {
+        "contentLength": 608601,
+        "resolution": "720x720",
+        "tags": [
+          "thumb",
+          "retina"
+        ],
+        "uri": "shrpeeqc_Grid_720.png"
+      },
+      {
+        "contentLength": 830972,
+        "resolution": "840x840",
+        "tags": [
+          "thumb",
+          "retina"
+        ],
+        "uri": "shrpeeqc_Grid_840.png"
+      },
+      {
+        "contentLength": 1600041,
+        "resolution": "1440x768",
+        "tags": [
+          "preview"
+        ],
+        "uri": "shrpeeqc_Popup_1440.png"
+      },
+      {
+        "contentLength": 3008264,
+        "resolution": "1920x1080",
+        "tags": [
+          "preview"
+        ],
+        "uri": "shrpeeqc_Popup_1920.png"
+      },
+      {
+        "contentLength": 6382372,
+        "resolution": "2880x1536",
+        "tags": [
+          "preview",
+          "retina"
+        ],
+        "uri": "shrpeeqc_Popup_2880.png"
+      },
+      {
+        "contentLength": 12036317,
+        "resolution": "3840x2160",
+        "tags": [
+          "preview",
+          "retina"
+        ],
+        "uri": "shrpeeqc_Popup_3840.png"
+      }
+    ],
+    "relativeSize": "1x1",
+    "scaleReferences": []
+  },
+  "process_date": "2024-04-17 15:00:42",
+  "properties": [],
+  "referencePreviews": {
+    "maps": [],
+    "models": []
+  },
+  "references": [],
+  "revised": false,
+  "semanticTags": {
+    "architectural_style": {},
+    "asset_type": "imperfection",
+    "contains": [
+      "scratches",
+      "blemished"
+    ],
+    "environment": [
+      "industrial"
+    ],
+    "industry": [
+      "archviz",
+      "games",
+      "VFX"
+    ],
+    "interior_exterior": [
+      "interior",
+      "exterior"
+    ],
+    "latin_name": [],
+    "locations": {},
+    "maxSize": 0.5,
+    "minSize": 0.5,
+    "name": "Scratched Anodized Aluminum",
+    "resolution": 4096,
+    "season": [],
+    "subject_matter": "manmade",
+    "theme": [
+      "anodized aluminum",
+      " aluminum"
+    ]
+  },
+  "tags": [
+    "surface imperfection",
+    "archviz"
+  ],
+  "texelDensity": 8192,
+  "texture_type": "basic",
+  "ue_plugin_archives": [
+    {
+      "contentLength": 21618217,
+      "gltfVersion": "2.0",
+      "tier": 1,
+      "type": "gltf",
+      "uri": "ue_plugin_archives/tier_1/shrpeeqc_tier_1.zip",
+      "version": 1
+    },
+    {
+      "contentLength": 5813919,
+      "gltfVersion": "2.0",
+      "tier": 2,
+      "type": "gltf",
+      "uri": "ue_plugin_archives/tier_2/shrpeeqc_tier_2.zip",
+      "version": 1
+    },
+    {
+      "contentLength": 2213237,
+      "gltfVersion": "2.0",
+      "tier": 3,
+      "type": "gltf",
+      "uri": "ue_plugin_archives/tier_3/shrpeeqc_tier_3.zip",
+      "version": 1
+    }
+  ],
+  "version": 2
+}
