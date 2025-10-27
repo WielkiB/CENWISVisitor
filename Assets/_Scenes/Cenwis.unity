@@ -26,7 +26,7 @@ RenderSettings:
   m_AmbientIntensity: 1
   m_AmbientMode: 0
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
-  m_SkyboxMaterial: {fileID: 10304, guid: 0000000000000000f000000000000000, type: 0}
+  m_SkyboxMaterial: {fileID: 2100000, guid: c9f20ada6593387498be43c7f45bfbe7, type: 2}
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -209,6 +209,30 @@ PrefabInstance:
       propertyPath: m_LocalPosition.x
       value: 3.992
       objectReference: {fileID: 0}
+    - target: {fileID: 732835457686202705, guid: d6603626fcb119c468f14ae806df5215, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 732835457686202705, guid: d6603626fcb119c468f14ae806df5215, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.02
+      objectReference: {fileID: 0}
+    - target: {fileID: 732835457686202705, guid: d6603626fcb119c468f14ae806df5215, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 899096177475402967, guid: d6603626fcb119c468f14ae806df5215, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 7.34
+      objectReference: {fileID: 0}
+    - target: {fileID: 1123190982525739821, guid: d6603626fcb119c468f14ae806df5215, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.047
+      objectReference: {fileID: 0}
+    - target: {fileID: 1123190982525739821, guid: d6603626fcb119c468f14ae806df5215, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.00035
+      objectReference: {fileID: 0}
     - target: {fileID: 1171831366764433346, guid: d6603626fcb119c468f14ae806df5215, type: 3}
       propertyPath: m_LocalPosition.x
       value: 13.425523
@@ -265,9 +289,33 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1951852907908805625, guid: d6603626fcb119c468f14ae806df5215, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 16.69
+      objectReference: {fileID: 0}
+    - target: {fileID: 1951852907908805625, guid: d6603626fcb119c468f14ae806df5215, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1951852907908805625, guid: d6603626fcb119c468f14ae806df5215, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -36.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3814615813388676569, guid: d6603626fcb119c468f14ae806df5215, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 6.86
+      objectReference: {fileID: 0}
+    - target: {fileID: 3814615813388676569, guid: d6603626fcb119c468f14ae806df5215, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 4.47
+      objectReference: {fileID: 0}
     - target: {fileID: 5383323377363882333, guid: d6603626fcb119c468f14ae806df5215, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6624266864200212690, guid: d6603626fcb119c468f14ae806df5215, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 16.69
       objectReference: {fileID: 0}
     - target: {fileID: 6814048727366135368, guid: d6603626fcb119c468f14ae806df5215, type: 3}
       propertyPath: m_LocalPosition.x
@@ -276,6 +324,18 @@ PrefabInstance:
     - target: {fileID: 7285770653391522890, guid: d6603626fcb119c468f14ae806df5215, type: 3}
       propertyPath: m_LocalPosition.x
       value: 4.57
+      objectReference: {fileID: 0}
+    - target: {fileID: 7558320205002093370, guid: d6603626fcb119c468f14ae806df5215, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.45
+      objectReference: {fileID: 0}
+    - target: {fileID: 7558320205002093370, guid: d6603626fcb119c468f14ae806df5215, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 4.32
+      objectReference: {fileID: 0}
+    - target: {fileID: 7687345454640373403, guid: d6603626fcb119c468f14ae806df5215, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 27.14
       objectReference: {fileID: 0}
     - target: {fileID: 7883869362977497858, guid: d6603626fcb119c468f14ae806df5215, type: 3}
       propertyPath: m_Name
@@ -294,6 +354,7 @@ PrefabInstance:
     - {fileID: 7726838160761233694, guid: d6603626fcb119c468f14ae806df5215, type: 3}
     - {fileID: 7952824318607348814, guid: d6603626fcb119c468f14ae806df5215, type: 3}
     - {fileID: 4398576480858343641, guid: d6603626fcb119c468f14ae806df5215, type: 3}
+    - {fileID: 7861482705021345133, guid: d6603626fcb119c468f14ae806df5215, type: 3}
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: 5874934351787108807, guid: d6603626fcb119c468f14ae806df5215, type: 3}
       insertIndex: 5
