@@ -10,6 +10,8 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
+/*_BackUpThisFolder_ButDontShipItWithYourGame/
+/*_BurstDebugInformation_DoNotShip/
 *.log
 
 # MemoryCaptures can get excessive in size.
@@ -73,3 +75,6 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Executables and packages
+*.apk
