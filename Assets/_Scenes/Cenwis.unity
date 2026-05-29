@@ -247,15 +247,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1171831366764433346, guid: d6603626fcb119c468f14ae806df5215, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.5
+      value: -0.66
       objectReference: {fileID: 0}
     - target: {fileID: 1171831366764433346, guid: d6603626fcb119c468f14ae806df5215, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.82
+      value: 1.81
       objectReference: {fileID: 0}
     - target: {fileID: 1171831366764433346, guid: d6603626fcb119c468f14ae806df5215, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 1.55
+      value: 1.76
       objectReference: {fileID: 0}
     - target: {fileID: 1171831366764433346, guid: d6603626fcb119c468f14ae806df5215, type: 3}
       propertyPath: m_LocalRotation.w
@@ -283,6 +283,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1171831366764433346, guid: d6603626fcb119c468f14ae806df5215, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1171831366764433346, guid: d6603626fcb119c468f14ae806df5215, type: 3}
+      propertyPath: m_ConstrainProportionsScale
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1226610723888162112, guid: d6603626fcb119c468f14ae806df5215, type: 3}
@@ -565,7 +569,6 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!33 &104737963
 MeshFilter:
@@ -760,7 +763,6 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!33 &302891870
 MeshFilter:
@@ -1052,7 +1054,6 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!33 &432262306
 MeshFilter:
@@ -1152,15 +1153,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3803675351023315029, guid: 8e4e71ebadde70144b288819738b8095, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 5.22
+      value: 4.084
       objectReference: {fileID: 0}
     - target: {fileID: 3803675351023315029, guid: 8e4e71ebadde70144b288819738b8095, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.84
+      value: 0.834
       objectReference: {fileID: 0}
     - target: {fileID: 3803675351023315029, guid: 8e4e71ebadde70144b288819738b8095, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -3.374
+      value: -3.154
       objectReference: {fileID: 0}
     - target: {fileID: 3803675351023315029, guid: 8e4e71ebadde70144b288819738b8095, type: 3}
       propertyPath: m_LocalRotation.w
@@ -1515,15 +1516,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3803675351023315029, guid: 8e4e71ebadde70144b288819738b8095, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 6.99
+      value: 5.812
       objectReference: {fileID: 0}
     - target: {fileID: 3803675351023315029, guid: 8e4e71ebadde70144b288819738b8095, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.84
+      value: 0.834
       objectReference: {fileID: 0}
     - target: {fileID: 3803675351023315029, guid: 8e4e71ebadde70144b288819738b8095, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 4.167
+      value: 4.352
       objectReference: {fileID: 0}
     - target: {fileID: 3803675351023315029, guid: 8e4e71ebadde70144b288819738b8095, type: 3}
       propertyPath: m_LocalRotation.w
@@ -2440,7 +2441,6 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!33 &884937721
 MeshFilter:
@@ -2538,7 +2538,6 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!33 &922915822
 MeshFilter:
@@ -2578,15 +2577,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3803675351023315029, guid: 8e4e71ebadde70144b288819738b8095, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.448
+      value: -0.786
       objectReference: {fileID: 0}
     - target: {fileID: 3803675351023315029, guid: 8e4e71ebadde70144b288819738b8095, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.84
+      value: 0.834
       objectReference: {fileID: 0}
     - target: {fileID: 3803675351023315029, guid: 8e4e71ebadde70144b288819738b8095, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 4.207
+      value: 4.388
       objectReference: {fileID: 0}
     - target: {fileID: 3803675351023315029, guid: 8e4e71ebadde70144b288819738b8095, type: 3}
       propertyPath: m_LocalRotation.w
@@ -2689,15 +2688,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3803675351023315029, guid: 8e4e71ebadde70144b288819738b8095, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.918
+      value: -2.082
       objectReference: {fileID: 0}
     - target: {fileID: 3803675351023315029, guid: 8e4e71ebadde70144b288819738b8095, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.84
+      value: 0.834
       objectReference: {fileID: 0}
     - target: {fileID: 3803675351023315029, guid: 8e4e71ebadde70144b288819738b8095, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 4.215
+      value: 4.418
       objectReference: {fileID: 0}
     - target: {fileID: 3803675351023315029, guid: 8e4e71ebadde70144b288819738b8095, type: 3}
       propertyPath: m_LocalRotation.w
@@ -2916,7 +2915,6 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!33 &1073921473
 MeshFilter:
@@ -3035,7 +3033,6 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!33 &1112198170
 MeshFilter:
@@ -3344,7 +3341,6 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!33 &1201406794
 MeshFilter:
@@ -3572,14 +3568,14 @@ Light:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1297570134}
   m_Enabled: 1
-  serializedVersion: 13
+  serializedVersion: 11
   m_Type: 2
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 300
   m_Range: 10
   m_SpotAngle: 102.950554
   m_InnerSpotAngle: 0
-  m_CookieSize2D: {x: 10, y: 10}
+  m_CookieSize: 10
   m_Shadows:
     m_Type: 0
     m_Resolution: -1
@@ -3624,7 +3620,7 @@ Light:
   m_UseBoundingSphereOverride: 0
   m_UseViewFrustumForShadowCasterCull: 1
   m_ForceVisible: 0
-  m_ShapeRadius: 0
+  m_ShadowRadius: 0
   m_ShadowAngle: 0
   m_LightUnit: 1
   m_LuxAtDistance: 1
@@ -3865,7 +3861,6 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!33 &1398898585
 MeshFilter:
@@ -4271,15 +4266,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3803675351023315029, guid: 8e4e71ebadde70144b288819738b8095, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1.558
+      value: 0.385
       objectReference: {fileID: 0}
     - target: {fileID: 3803675351023315029, guid: 8e4e71ebadde70144b288819738b8095, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.84
+      value: 0.834
       objectReference: {fileID: 0}
     - target: {fileID: 3803675351023315029, guid: 8e4e71ebadde70144b288819738b8095, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -3.401
+      value: -3.2
       objectReference: {fileID: 0}
     - target: {fileID: 3803675351023315029, guid: 8e4e71ebadde70144b288819738b8095, type: 3}
       propertyPath: m_LocalRotation.w
@@ -5201,7 +5196,6 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1001 &2087265802997366868
 PrefabInstance:
@@ -5372,7 +5366,6 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!4 &5434903966004522552
 Transform:
@@ -5547,7 +5540,6 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1001 &8764059590280117851
 PrefabInstance:
@@ -5663,7 +5655,6 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!33 &8976270506119205229
 MeshFilter:
